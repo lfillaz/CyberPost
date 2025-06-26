@@ -140,7 +140,7 @@ Join our community of cybersecurity professionals and developers to share tips, 
 </div>
 
 <div style="text-align:center;background-color:#1e272e;color:white;padding:15px;border-radius:5px;margin-bottom:20px;">
-  <img src="https://avatars.githubusercontent.com/u/TeamGhostbyte" width="100" height="100" style="border-radius:50%;border:3px solid #2ecc71;">
+  <img src="./Cyberpost-pic/Ghostbyte.png" width="100" height="100" style="border-radius:50%;border:3px solid #2ecc71;">
   <h3 style="color:#e74c3c;">Team Ghostbyte</h3>
   <p>Official development and security research team</p>
   <a href="https://github.com/TeamGhostbyte"><img src="https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge&logo=github" alt="GitHub Organization"></a>
