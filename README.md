@@ -16,7 +16,11 @@
 CyberPost Lab is a powerful browser extension specifically designed for cybersecurity professionals and developers. Create, modify, and test complex HTTP requests in a secure offline environment with an intuitive and feature-rich interface.
 </div>
 
-![Main Tab Interface](./Cyberpost-pic/maintap1.png)
+<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin:20px 0;">
+  <img src="./Cyberpost-pic/maintap1.png" style="max-width:32%;height:auto;border:1px solid #2ecc71;border-radius:5px;">
+  <img src="./Cyberpost-pic/responsetap2.png" style="max-width:32%;height:auto;border:1px solid #e74c3c;border-radius:5px;">
+  <img src="./Cyberpost-pic/Toolstap3.png" style="max-width:32%;height:auto;border:1px solid #3498db;border-radius:5px;">
+</div>
 
 ## ✨ Key Features
 
