@@ -1,5 +1,5 @@
 <div align="center">
-<h1 style="color:#2ecc71;"><img src="./Cyberpost-pic/Toolstap3.png" width="40" height="40" /> CyberPost Lab <span style="color:#e74c3c;">Professional Edition</span></h1>
+<h1 style="color:#2ecc71;"><img src="./Cyberpost-pic/icon-128.png" width="40" height="40" /> CyberPost Lab <span style="color:#e74c3c;">Professional Edition</span></h1>
 
 <p style="font-size:18px;color:#2c3e50;"><em>The ultimate HTTP request laboratory for cybersecurity researchers and developers</em></p>
 
@@ -10,7 +10,7 @@
 
 <hr style="border: 2px solid #2ecc71;">
 
-## 🔍 Tool Overview
+## Tool Overview
 
 <div style="background-color:#f8f9fa;padding:15px;border-left:4px solid #2ecc71;">
 CyberPost Lab is a powerful browser extension specifically designed for cybersecurity professionals and developers. Create, modify, and test complex HTTP requests in a secure offline environment with an intuitive and feature-rich interface.
@@ -19,10 +19,9 @@ CyberPost Lab is a powerful browser extension specifically designed for cybersec
 <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin:20px 0;">
   <img src="./Cyberpost-pic/maintap1.png" style="max-width:32%;height:auto;border:1px solid #2ecc71;border-radius:5px;">
   <img src="./Cyberpost-pic/responsetap2.png" style="max-width:32%;height:auto;border:1px solid #e74c3c;border-radius:5px;">
-  <img src="./Cyberpost-pic/Toolstap3.png" style="max-width:32%;height:auto;border:1px solid #3498db;border-radius:5px;">
 </div>
 
-## ✨ Key Features
+##  Key Features
 
 <div style="display:flex;margin-bottom:20px;">
 <div style="flex:1;background-color:#1e272e;color:white;padding:15px;margin-right:10px;border-radius:5px;">
@@ -44,9 +43,6 @@ CyberPost Lab is a powerful browser extension specifically designed for cybersec
 </ul>
 </div>
 </div>
-
-![Response Interface](./Cyberpost-pic/icon-128.png)
-
 <div style="display:flex;margin-bottom:20px;">
 <div style="flex:1;background-color:#1e272e;color:white;padding:15px;margin-right:10px;border-radius:5px;">
 <h3 style="color:#2ecc71;">📊 Response Analysis</h3>
@@ -67,9 +63,6 @@ CyberPost Lab is a powerful browser extension specifically designed for cybersec
 </ul>
 </div>
 </div>
-
-![Tools Interface](./Cyberpost-pic/Toolstap3.png)
-
 ## 📥 Installation
 
 <div style="background-color:#f8f9fa;padding:15px;border-left:4px solid #e74c3c;margin-bottom:20px;">
@@ -127,19 +120,19 @@ Join our community of cybersecurity professionals and developers to share tips, 
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;margin-bottom:20px;">
   <div style="text-align:center;background-color:#1e272e;color:white;padding:15px;border-radius:5px;min-width:200px;">
-    <img src="https://avatars.githubusercontent.com/u/lfillaz" width="80" height="80" style="border-radius:50%;border:2px solid #e74c3c;">
+    <img src="https://avatars.githubusercontent.com/u/114345508" width="80" height="80" style="border-radius:50%;border:2px solid #e74c3c;">
     <h3 style="color:#2ecc71;">@lfillaz</h3>
     <p>Project Lead</p>
     <a href="https://github.com/lfillaz"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" alt="GitHub"></a>
   </div>
   <div style="text-align:center;background-color:#1e272e;color:white;padding:15px;border-radius:5px;min-width:200px;">
-    <img src="https://avatars.githubusercontent.com/u/RedPwnx" width="80" height="80" style="border-radius:50%;border:2px solid #e74c3c;">
+    <img src="https://avatars.githubusercontent.com/u/196428571" width="80" height="80" style="border-radius:50%;border:2px solid #e74c3c;">
     <h3 style="color:#2ecc71;">@RedPwnx</h3>
     <p>Security Researcher</p>
     <a href="https://github.com/RedPwnx"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" alt="GitHub"></a>
   </div>
   <div style="text-align:center;background-color:#1e272e;color:white;padding:15px;border-radius:5px;min-width:200px;">
-    <img src="https://avatars.githubusercontent.com/u/0xwanted" width="80" height="80" style="border-radius:50%;border:2px solid #e74c3c;">
+    <img src="https://avatars.githubusercontent.com/u/141519897" width="80" height="80" style="border-radius:50%;border:2px solid #e74c3c;">
     <h3 style="color:#2ecc71;">@0xwanted</h3>
     <p>Backend Developer</p>
     <a href="https://github.com/0xwanted"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" alt="GitHub"></a>
