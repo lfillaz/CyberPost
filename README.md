@@ -45,7 +45,7 @@ CyberPost Lab is a powerful browser extension specifically designed for cybersec
 </div>
 </div>
 
-![Response Interface](./Cyberpost-pic/responsetap2.png)
+![Response Interface](./Cyberpost-pic/icon-128.png)
 
 <div style="display:flex;margin-bottom:20px;">
 <div style="flex:1;background-color:#1e272e;color:white;padding:15px;margin-right:10px;border-radius:5px;">
