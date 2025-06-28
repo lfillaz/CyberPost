@@ -84,7 +84,9 @@ CyberPost Lab is a powerful browser extension specifically designed for cybersec
 <li>Click "Load Temporary Add-on..."</li>
 <li>Select the manifest.json file from the extracted folder</li>
 </ol>
-<p><strong style="color:#2ecc71;">[CyberPost](https://addons.mozilla.org/en-US/firefox/addon/cyberpost-lab/) available on [Firefox](https://addons.mozilla.org/en-US/firefox/addon/cyberpost-lab/) Add-ons Store!</p>
+<p><strong style="color:#2ecc71;">CyberPost available on Firefox Add-ons Store!
+https://addons.mozilla.org/en-US/firefox/addon/cyberpost-lab/
+</p>
 </div>
 
 <div style="background-color:#f8f9fa;padding:15px;border-left:4px solid #3498db;margin-bottom:20px;">
