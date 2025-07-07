@@ -1,0 +1,85 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-cyber-dark text-gray-100 font-sans;
+  }
+  
+  /* Scrollbar styling */
+  ::-webkit-scrollbar {
+    @apply w-2;
+  }
+  
+  ::-webkit-scrollbar-track {
+    @apply bg-cyber-dark-light;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    @apply bg-gray-700 rounded-md hover:bg-gray-600 transition-colors;
+  }
+  
+  /* Custom class for code elements */
+  .font-code {
+    @apply font-mono font-medium;
+  }
+  
+  /* Terminal-like elements */
+  .terminal {
+    @apply bg-cyber-dark-light rounded-md border border-gray-700 p-3 font-code;
+  }
+}
+
+@layer components {
+  /* Button styles */
+  .btn {
+    @apply px-4 py-2 rounded-md font-medium transition-all duration-200 focus:outline-none focus:ring-2;
+  }
+  
+  .btn-primary {
+    @apply btn bg-cyber-cyan text-cyber-dark hover:bg-opacity-80 focus:ring-cyber-cyan;
+  }
+  
+  .btn-secondary {
+    @apply btn bg-gray-800 text-gray-100 hover:bg-gray-700 focus:ring-gray-600;
+  }
+  
+  .btn-danger {
+    @apply btn bg-cyber-red text-white hover:bg-opacity-80 focus:ring-cyber-red;
+  }
+  
+  .btn-success {
+    @apply btn bg-cyber-green text-cyber-dark hover:bg-opacity-80 focus:ring-cyber-green;
+  }
+  
+  /* Input styles */
+  .input {
+    @apply bg-cyber-dark-light border border-gray-700 rounded-md px-3 py-2 focus:outline-none focus:ring-2 focus:ring-cyber-cyan focus:border-transparent transition-all;
+  }
+  
+  /* Card styles */
+  .card {
+    @apply bg-cyber-dark-light rounded-md border border-gray-700 overflow-hidden;
+  }
+  
+  /* Tabs */
+  .tab {
+    @apply px-4 py-2 font-medium border-b-2 transition-all;
+  }
+  
+  .tab-active {
+    @apply border-cyber-green text-cyber-green;
+  }
+  
+  .tab-inactive {
+    @apply border-transparent text-gray-400 hover:text-gray-200;
+  }
+}
+
+/* Custom transitions and animations */
+@keyframes glow {
+  0% { box-shadow: 0 0 5px rgba(0, 229, 255, 0.5); }
+  50% { box-shadow: 0 0 15px rgba(0, 229, 255, 0.7); }
+  100% { box-shadow: 0 0 5px rgba(0, 229, 255, 0.5); }
+}
