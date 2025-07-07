@@ -73,7 +73,9 @@ CyberPost Lab is a powerful browser extension specifically designed for cybersec
 <li>Enable "Developer Mode" in the top-right corner</li>
 <li>Click "Load unpacked" and select the extracted folder</li>
 </ol>
-<p><strong style="color:#e74c3c;">Coming Soon</strong>: CyberPost will be available on the Chrome Web Store!</p>
+<p><strong style="color:#e74c3c;"> CyberPost  available on the Chrome Web Store! 
+https://chromewebstore.google.com/detail/cyberpost-lab/kdogkalclfcnhknehcpghfkjjlcfnhle
+</p>
 </div>
 
 <div style="background-color:#f8f9fa;padding:15px;border-left:4px solid #2ecc71;margin-bottom:20px;">
