@@ -135,12 +135,6 @@ Join our community of cybersecurity professionals and developers to share tips, 
     <p>Security Researcher</p>
     <a href="https://github.com/RedPwnx"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" alt="GitHub"></a>
   </div>
-  <div style="text-align:center;background-color:#1e272e;color:white;padding:15px;border-radius:5px;min-width:200px;">
-    <img src="https://avatars.githubusercontent.com/u/141519897" width="80" height="80" style="border-radius:50%;border:2px solid #e74c3c;">
-    <h3 style="color:#2ecc71;">@0xwanted</h3>
-    <p>Research Assistant Interface Developer</p>
-    <a href="https://github.com/0xwanted"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" alt="GitHub"></a>
-  </div>
 </div>
 
 <div style="text-align:center;background-color:#1e272e;color:white;padding:15px;border-radius:5px;margin-bottom:20px;">
